@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to sinners under convictions, to prevent their miscarrying in conversion. By Samuel Corbyn ...</title>
+            <author>Corbyn, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80563</idno>
+            <idno type="STC">Wing C6278A</idno>
+            <idno type="STC">ESTC R174264</idno>
+            <idno type="EEBO-CITATION">45097644</idno>
+            <idno type="OCLC">ocm 45097644</idno>
+            <idno type="VID">171248</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171248)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2569:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to sinners under convictions, to prevent their miscarrying in conversion. By Samuel Corbyn ...</title>
+                  <author>Corbyn, Samuel.</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Gibbs at the Golden Ball in Chancery-Lane,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1669.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171248:1"/>
+            <p>ADVICE TO SINNERS UNDER CONVICTIONS, To prevent their Miſcarrying in CONVERSION.</p>
+            <p>By <hi>Samuel Corbyn.</hi> M. A.</p>
+            <q>
+               <bibl>Iſa. 66.9.</bibl>
+               <p>Shall I bring to the Birth, and not cauſe to bring forth, ſaith the Lord?</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Robert Gibbs</hi> at the <hi>Golden Ball</hi> in <hi>Chancery-Lane,</hi> 1669.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:171248:2"/>
+            <pb n="1" facs="tcp:171248:2"/>
+            <head>Advice to Sinners under Convictions, to prevent their miſcarrying in Con<g ref="char:EOLhyphen"/>verſion.</head>
+            <opener>
+               <salute>Poor undone Sinners,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Send theſe truths from the Eternall God to you in love and faithfulneſs, unfeigned<g ref="char:EOLhyphen"/>ly deſiring that you may be convinced of your unbelief, and of all your ſins, and of your preſent accurſed and condemned ſtate, and may be taught of God to rely upon Chriſt, who died for the ungodly, without which you will be certainly ere long undone for ever, although you now enjoy the plea<g ref="char:EOLhyphen"/>ſures of ſin for a ſeaſon, or the world in its
+<pb n="2" facs="tcp:171248:3"/>glory. Since divers of you were awakened, I hope that God may have thoughts of ever<g ref="char:EOLhyphen"/>laſting love to ſome of your ſouls: there<g ref="char:EOLhyphen"/>fore as I have warned you to flee for re<g ref="char:EOLhyphen"/>fuge from the wrath of God which is com<g ref="char:EOLhyphen"/>ing upon you, and without delay preſently to come out of this dreadfull condition to Chriſt who will embrace you; ſo I write to you, and to all others to whom theſe truths may be communicated, to prevent their miſ<g ref="char:EOLhyphen"/>carrying in converſion.</p>
+            <p n="1">1. Seek to know and be convinced by the Spirit through the Scriptures, that you are born dead in ſins and children of wrath, without Chriſt and without hope, <hi>Eph.</hi> 2.3, 12. and that you are every day and every moment under Gods curſe, and wrath, in danger of eternall condemnation, <hi>Gal.</hi> 3.10. <hi>The wicked ſhall be turned into Hell,</hi> Pſal. 9.17. and <hi>the ſoul that ſinneth it ſhall die,</hi> Ezek. 18.4. and unbelievers ſhall not ſee life, but the wrath of God abideth on them, though they are inſenſible of it. The Lord ſaith, <hi>Except a man be born again, he cannot ſee the kingdome of God;</hi> and <hi>he that believeth not is condemned already,</hi> Joh. 3.3, 18, 36. Conſi<g ref="char:EOLhyphen"/>der ſeriouſly then each of you I beſeech you, what will become of me who am not born again, nor ever had a work of grace? O that
+<pb n="3" facs="tcp:171248:3"/>your eyes were open to behold all the ſins of your hearts and lives in order before you, which cry aloud day and night for venge<g ref="char:EOLhyphen"/>ance againſt your guilty ſouls! 'twere e<g ref="char:EOLhyphen"/>nough to make you tremble who are now moſt ſenſeleſs. Get alone quickly, and re<g ref="char:EOLhyphen"/>flect upon your wayes as in the fight of God. Ask your ſelves, have I not ſometimes lied, or ſtole, or ſwore an oath? have I not prophaned the Lords Day? was I never proud, nor wanton, nor malicious? have I never taken the Lords Name in vain? have I not been diſobedient to my parents? have I not a carnall, unclean, hard, and unbelie<g ref="char:EOLhyphen"/>ving heart? did I never break Gods Laws? Yea ſurely; I muſt cry out guilty, guilty; my conſcience condemns me; what will become of me if I die in this dreadfull condition? He that ſpared not the Angels when they ſin<g ref="char:EOLhyphen"/>ned, but caſt them down to Hell; he that ſpa<g ref="char:EOLhyphen"/>red not the old world, nor the Cities of <hi>So<g ref="char:EOLhyphen"/>dom,</hi> but condemned them with an over<g ref="char:EOLhyphen"/>throw, making them an example unto thoſe which after ſhould live ungodly, will not ſpare me long. Does not Hell gape for me? Is there any hopes that ſuch a ſinner as I have been may yet be waſhed in the blood of Chriſt? God may righteouſly damn me for theſe ſins, or for the leaſt ſin, <hi>Rom.</hi> 3.23. It is
+<pb n="4" facs="tcp:171248:4"/>the Lords mercy that I am not conſumed, and now in Hell howling among the damned, crying out for a drop of water to cool my tongue, <hi>Lam.</hi> 3.22. <hi>Luke</hi> 16.24.</p>
+            <p n="2">2. Seek the Lord in ſecret for his Spirit while he may be found, <hi>Iſa.</hi> 55.6. Cry out each of you for the blood of Chriſt, as con<g ref="char:EOLhyphen"/>demned malefactors do for mercy; as they did, <hi>Acts</hi> 2.37. Or as the keeper of the pri<g ref="char:EOLhyphen"/>ſon ſaid trembling, <hi>What muſt I do to be ſa<g ref="char:EOLhyphen"/>ved?</hi> Acts 16.30. Reſt not one day nor hour longer quietly or ſecurely, till you have ſome good hopes that Jeſus Chriſt will plead your cauſe at the day of judgement; for without the imputation of his righteouſneſs there is no remiſſion. Follow Chriſt, crying after him as the blind men did, <hi>Lord, that our eyes may be opend,</hi> Mat. 20.30, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. If the Lord by his Word and Spirit makes you ſenſible of your fearfull undone condition, beware of reſting ſhort of a tho<g ref="char:EOLhyphen"/>row-work of grace, leſt you fall ſhort of union with Chriſt, through the teachings and drawings of the Father, leſt you rreſt in a falſe peace, <hi>Luke</hi> 11.21. compaſting your ſelves about with ſparks of your own kind<g ref="char:EOLhyphen"/>ling, through ſlight wounding, or ſlight healing, <hi>Iſa.</hi> 50.11. Take heed of building fooliſhly upon the ſand, <hi>Mat.</hi> 7.26, 27. And
+<pb n="5" facs="tcp:171248:4"/>leſt thou prove at beſt but a fooliſh Vir<g ref="char:EOLhyphen"/>ing walking with the wiſe, <hi>Mat.</hi> 25. fear leſt you ſhould make a Chriſt of duties, of praying, weeping, purpoſing, or reforming; for <hi>the ſacrifice of the wicked is abomination to the Lord,</hi> Prov. 15.8. <hi>There is away which ſeemeth right to a man, but the end thereof is the wayes of death,</hi> Prov 12.14. And <hi>there is a generation that are pure in their own eyes, and yet is not waſhed from their filthineſs,</hi> Prov. 30.12. A man may go very far under the a<g ref="char:EOLhyphen"/>wakenings of conſcience, and have a zeal of God, and yet being ignorant of Gods righ<g ref="char:EOLhyphen"/>teouſneſs, go about all his life time to eſta<g ref="char:EOLhyphen"/>bliſh his own righteouſneſs, and get no<g ref="char:EOLhyphen"/>thing at laſt but the hypocrites hope which ſhall periſh, whoſe truſt ſhall be a ſpiders web, and he ſhall lye down in ſorrow; for Chriſt is the end of the Law for righteouſneſs to every one that believeth, <hi>Joh</hi> 8.13, 14. <hi>Rom.</hi> 10.2, 3, 4. By the deeds of the Law there ſhall no fleſh be juſtified in the ſight of God, <hi>Rom.</hi> 3.20. If ever thou find mer<g ref="char:EOLhyphen"/>cy, thou muſt be juſtified freely by the grace of God, through the redemption which is in Chriſt Jeſus by faith, without the deeds of the Law, <hi>
+                  <g ref="char:V">Ʋ</g>erſe</hi> 24, 28. 'Tis true faith comes by hearing, and 'tis our duty to attend to Gods appointments where the Spirit
+<pb n="6" facs="tcp:171248:5"/>works; but if righteouſneſs come by any work of the Law, then Chriſt is dead in vain, <hi>Gal.</hi> 2.21. To him that worketh not in the point of juſtification, but believeth on him that juſtifieth the ungodly, his faith is count<g ref="char:EOLhyphen"/>ed for righteouſneſs: bleſſed is that man to whom God imputeth righteouſneſs without works, <hi>Rom.</hi> 4.5, 6.</p>
+            <p n="4">4. Look to the Lord to convince you of ſin, becauſe you believe not in Jeſus Chriſt which is promiſed, <hi>Joh.</hi> 16.7, 8, 9. In your attendance on the means of grace, be willing to be convinced by the Comforter, that your hearts are ſo deſperately wicked that you will not come to Chriſt; and to feel your im<g ref="char:EOLhyphen"/>potency, that you cannot believe in him un<g ref="char:EOLhyphen"/>leſs the Lord put forth the exceeding great<g ref="char:EOLhyphen"/>neſs of his power, <hi>Eph.</hi> 1.19.</p>
+            <p n="5">5. Know aſſuredly, and welcome theſe glad tidings, that Chriſt is come of a truth into the world on purpoſe to ſave ſinners, and the chiefeſt of them, 1 <hi>Tim.</hi> 1.15. <hi>God ſo loved the world that he gave his only begotten Son, that whoſoever believeth in him ſhould not periſh but have everlasting life,</hi> Joh. 3.19. <hi>Chriſt hath once ſuffered for ſins, the juſt for the unjuſt, that he might bring us to God,</hi> 1 Pet. 3.18. Flee to this refuge when thou ſeeſt thy ſelf ungodly and accurſed by the Law of God, and feareſt
+<pb n="7" facs="tcp:171248:5"/>thou ſhalt be damned. Conſider with thy ſelf, though I am ungodly, yet there's a dying Chriſt for the ungodly, <hi>Rom.</hi> 5.6. Though I am an enemy, yet Chriſt hath reconciled ene<g ref="char:EOLhyphen"/>mies to God by his death, <hi>verſ.</hi> 10. Though I am rebellious, and ſo abominable, that I fear leſt the earth ſhould open and ſwallow up ſuch a wretch ſometimes, and ſo God ſhould righteouſly ſink me to Hell living, and in his wrath; yet here's good news and encourage<g ref="char:EOLhyphen"/>ment for me, that Jeſus Chriſt when he aſcended on high received gifts for men, yea for the rebellious alſo, that the Lord God might dwell amongſt the rebellious, <hi>Pſal.</hi> 68.18. Though I am accurſed, and I ſee plainly God threatens to damn me in many Scri<g ref="char:EOLhyphen"/>ptures, yet is there hopes for ſuch a con<g ref="char:EOLhyphen"/>demned ſinner, ſince Chriſt hath redeemed accurſed ſinners from the curſe of the Law, being made a curſe for them, that we might receive the bleſſing of <hi>Abraham,</hi> and the pro<g ref="char:EOLhyphen"/>miſe of the Spirit, <hi>Gal.</hi> 3.13, 14.</p>
+            <p n="6">6. Believe in Jeſus Chriſt, becauſe 'tis the command of God and pleaſing in his ſight, and thy duty, though thou canſt ſee no other warrant or ground of encouragement. <hi>This is his Commandment, that we ſhould believe on the Name of his Son Jeſus Christ,</hi> 1 Joh. 3.22, 23. <hi>Believe on the Lord Jeſus and thou ſhalt
+<pb n="8" facs="tcp:171248:6"/>be ſaved,</hi> Acts 16.31. Chriſt tells hypocrites that ſought him for their bellies, <hi>This is the work of god that ye believe on him whom God hath ſent,</hi> Joh. 6.28, 29. Apply the Word thus to thy ſelf; the righteous God that knows all my hainous ſins, in ſtead of damning me for them, commands me to believe on his Son, and aſſures me that I ſhall be ſaved. The Lord give thee the ſpirit of wiſdome and re<g ref="char:EOLhyphen"/>veſation in the acknowledgement of Chriſt, and the obedience of faith.</p>
+            <p n="7">7. Rejoyce to hear that Jeſus Chriſt is be<g ref="char:EOLhyphen"/>come an earneſt ſuitor for thy love; he will bear thy ſorrows and love thee freely, <hi>Iſa.</hi> 5.3, 4. <hi>Hoſ.</hi> 14.4. Chriſt once crucified now ſaith to thee, <hi>Behold I ſtand at the door and knock, if any man hear my voice and open the door, I will come in to him,</hi> Rev. 3.20. <hi>I am not come to call the righteous, but ſinners,</hi> ſaith the Lord, <hi>Mat.</hi> 9.13. <hi>Come unto me all ye who la<g ref="char:EOLhyphen"/>bour and are heavy laden, and I will give you reſt,</hi> Mat. 11.18. <hi>Ho every one that thirſteth come ye to the waters, and he that hath no mo<g ref="char:EOLhyphen"/>ney, come ye,</hi> Iſa. 55.1. <hi>The Spirit and the Bride ſay come, and let him that heareth ſay come, and let him that is athirſt come, and whoſoever will let him take the water of life freely,</hi> Rev. 22.17. Hearken therefore to the raviſhing voice of Chriſt, although thou mayſt judge thy ſelf
+<pb n="9" facs="tcp:171248:6"/>the vileſt and chiefeſt of ſinners, and mayſt verily think there may be mercy for others, but there is none for ſuch a great monſtrous ſinner as thou haſt been; yet here is the joy<g ref="char:EOLhyphen"/>full ſound, that the Son of man God manifeſt in the fleſh is come to ſeek and to ſave that which is loſt, <hi>Luke</hi> 19.10. How dreadfull ſo<g ref="char:EOLhyphen"/>ever thy condition may be in thy own thoughts, yet Chriſt ſaith, <hi>Him that cometh to me I will in no wiſe cast out,</hi> Joh. 6.37. Though you therefore feel hard and dead hearts, yet come as ſinners unto Chriſt who came to ſeek and ſave ſuch. The Lord calls ſtour hearted ſinners who are farre from righteouſneſs to hearken unto him, <hi>Iſa.</hi> 46.12, 13.</p>
+            <p n="8">8. When your hearts are ſinking under the ſence of Gods wrath, then reſolve in the ſtrength of Chriſt to rely upon him, to caſt and roul your ſelves upon him whatever be the iſſue. If I periſh I will periſh at the feet of Chriſt, for other wiſe I am ſure to periſh; if he condemn me he is righteous, if he ſave me 'twill be riches of free grace for ever to be admired. Venture thus upon Chriſt againſt a thouſand diſcouragements, as the Lepers ventured into the tents of the <hi>Syrians,</hi> a King. 7.4, 5, 6. Preſs in upon Chriſt reſol<g ref="char:EOLhyphen"/>ving to take no deniall, as the woman of <hi>Cae<g ref="char:EOLhyphen"/>naan</hi>
+               <pb n="10" facs="tcp:171248:7"/>did, <hi>Mat.</hi> 15.22, &amp;c. Theſe had a bleſ<g ref="char:EOLhyphen"/>ſed iſſue out of their difficulties, and thou ſhalt find at length that the bowels of Chriſt will yearn over thy fainting ſoul, lying at his feet for a crumb, and he will embrace thee with unſpeakable love, Thus let the King<g ref="char:EOLhyphen"/>dome of Heaven ſuffer violence; preſs thou into it, and take it by force.</p>
+            <p n="9">9. Never attempt to believe or repent in thy own ſtrength, but <hi>look unto Jeſus in whom it hath pleaſed the Father all fulneſs ſhould dwell,</hi> Col. 1.19. As thou would'ſt not prove a rotten hypocrite, beware of a dead faith of thy own forming, which is not the faith of the operation of God, <hi>Col.</hi> 2.12. Look not for that in thy ſelf which is to be found in Chriſt, nor for that in the Law which is to be found in the Goſpell: this hath been the cauſe of the long troubles of many precious ſouls. When thou feareſt thou ſhalt die eternally becauſe thou canſt not believe, look out of thy ſelf unto Chriſt who is full of grace, and behold his glory, <hi>Joh.</hi> 1.14. <hi>Look unto me, and be ye ſaved all the ends of the earth,</hi> Iſa. 45.22. Look unto Jeſus the beginner and finiſher of faith, <hi>Heb.</hi> 12.2. Chriſt never comes expect<g ref="char:EOLhyphen"/>ing to find faith or repentance, but looks up<g ref="char:EOLhyphen"/>on a filthy ſoul polluted in his own blood, and ſaith unto him, live; and this time is the
+<pb n="11" facs="tcp:171248:7"/>time of love, <hi>Ezek.</hi> 16.6, 8. The grace of the Lord is exceeding abundant to the chiefeſt of ſinners, with faith and love which is in Chriſt Jeſus, 1 <hi>Tim.</hi> 1.14. When thou turneſt thine eyes inward, and thinkeſt the hardneſs and impenitency of thy heart will ſurely be thy ruine, flee to that reviving word, <hi>Act.</hi> 5.30.31. God hath raiſed up Jeſus and exalted him with his right hand to be a Prince and a Savi<g ref="char:EOLhyphen"/>our, to give repentance to <hi>Iſrael</hi> and remiſ<g ref="char:EOLhyphen"/>ſion of ſins. The Lord hath promiſed in the latter dayes to deſtroy the veil of unbelief which is ſpread over all Nations, <hi>Iſa.</hi> 25.7. Doſt thou find by experience that word true, <hi>No man can come to me except the Father which hath ſent me draw him.</hi> Behold in the next Verſe what a full promiſe of help is made to thee, <hi>They ſhall be all taught of God; every man therefore that hath heard and learnt of the Father cometh unto me,</hi> Joh. 6.44, 45. And <hi>Pſal.</hi> 25. <hi>Good and upright is the Lord, therefore will he teach ſinners in the way.</hi> And Chriſt ſaith, <hi>I am the way unto the Father,</hi> Joh. 14.6. Follow the Lord at the throne of grace with cryes and groanes unutterable without ceaſing; O draw me to Chriſt, help me to cloſe with and to be united to Chriſt. If thou findeſt ſtill 'tis impoſſible for thee to believe, hear the Lord ſaying to thee, <hi>Let him
+<pb n="12" facs="tcp:171248:8"/>take hold of my ſtrength that he may make peace with me, and he ſhall make peace with me,</hi> Iſa. 27.5. <hi>He giveth power to the faint, and to them that have no might be encreaſeth ſtrength,</hi> Chap. 40.29. <hi>Therefore truſt ye in the Lord for ever, for in the Lord Jehovah is everlaſting ſtrength,</hi> Chap. 26.4. It is my earneſt deſire and prayer to God, that this may be the time of Gods ſpeciall love and the day of his power, that you may be united to Chriſt by faith wrought in you by the power of Gods Spirit, that you may thirſt after, and receive a full aſſurance of Gods love, and that you may have the love of Chriſt ſhed abroad in your hearts, and may abide in Chriſt, being ſtrong in the grace which is in him, which is ſufficient for you in your greateſt ſtraits, and that you may be taught of God to ſing his praiſes, and to rejoyce with trembling, and may never loſe your firſt love, nor fall into a ſpirit of ſlum<g ref="char:EOLhyphen"/>ber or deluſion, but may grow in the know<g ref="char:EOLhyphen"/>ledge of Chriſt, and being planted in the houſe of God, may bring forth much fruit, denying your ſelves and taking up the Croſs of Chriſt, walking worthy of the Lord all your few dayes, to the praiſe of his free grace, who hath called you into his Kingdome and glory. O that theſe lines may not hereafter riſe up in judgement at the laſt day againſt any of you
+<pb n="13" facs="tcp:171248:8"/>which ſlight them, and condemn you, and that they may be the voice and call of God, his arm and power revealed to your ſalvation. <hi>The grace and peace of the Lord, and the abiding preſence of the Comforter, be with you for ever.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
